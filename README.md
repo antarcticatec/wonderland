@@ -1,4 +1,5 @@
 # Wonderland
+[![Build Status](https://travis-ci.org/jeongho/wonderland.svg?branch=master)](https://travis-ci.org/jeongho/wonderland)
 
 ## Down the Rabbit-Hole
 ~~~
