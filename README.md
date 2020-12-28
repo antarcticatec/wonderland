@@ -1,7 +1,6 @@
 # Wonderland
 
 [![Build Status](https://travis-ci.com/antarcticatec/wonderland.svg?branch=master)](https://travis-ci.com/antarcticatec/wonderland)
-[![DeepSource](https://deepsource.io/gh/antarcticatec/wonderland.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/antarcticatec/wonderland/?ref=repository-badge)
 
 ## Down the Rabbit-Hole
 
