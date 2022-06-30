@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# [Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland#Synopsis)
 
-You can use the [editor on GitHub](https://github.com/antarcticatec/wonderland/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.com/antarcticatec/wonderland.svg?token=zHQJcD49sfE5YxpWbG1a&branch=master)](https://travis-ci.com/antarcticatec/wonderland)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Down the Rabbit Hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01)
 
-### Markdown
+Down, down, down. Would the fall *never* come to an end? “I wonder how many miles I’ve fallen by this time?” she said aloud. “I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down, I think—”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [The Pool of Tears](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap02)
 
-```markdown
-Syntax highlighted code block
+“Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English);
 
-# Header 1
-## Header 2
-### Header 3
+Let me see: [four times five is twelve, and four times six is thirteen, and four times seven is—oh dear!](https://math.stackexchange.com/a/1460158/471987) I shall never get to twenty at that rate! However, the Multiplication Table doesn’t signify: let’s try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, *that’s* all wrong, I’m certain! I must have been changed for Mabel! I’ll try and say ‘*How doth the little—*’” 
 
-- Bulleted
-- List
+## [Alice's Evidence](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap12)
 
-1. Numbered
-2. List
+The White Rabbit put on his spectacles. “Where shall I begin, please your Majesty?” he asked.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antarcticatec/wonderland/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+“Begin at the beginning,” the King said gravely, “and go on till you come to the end: then stop.”
