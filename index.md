@@ -1,7 +1,5 @@
 # [Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland#Synopsis)
 
-[![Build Status](https://travis-ci.com/antarcticatec/wonderland.svg?token=zHQJcD49sfE5YxpWbG1a&branch=master)](https://travis-ci.com/antarcticatec/wonderland)
-
 ## [Down the Rabbit Hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01)
 
 Down, down, down. Would the fall *never* come to an end? “I wonder how many miles I’ve fallen by this time?” she said aloud. “I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down, I think—”
